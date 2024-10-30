@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ma-Visioconference\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: DiVA-Cloud <contact@diva-cloud.com>\n"
+"Language-Team: DiVA-Cloud <contact@diva-cloud.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Change your ma-visioconference settings"
+msgstr "Changer vos paramètres"
+
+msgid "List your meetings"
+msgstr "Lister vos réunions"
+
+msgid "Schedule a meeting"
+msgstr "Planifier une réunion"
+
+msgid "List"
+msgstr "Lister"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Schedule"
+msgstr "Planifier"
+
+msgid "Join the meeting"
+msgstr "Rejoindre la conférence"
+
+msgid "There is no public meeting scheduled"
+msgstr "Il n'y a pas de réunion publique prévue"
+
+msgid "Purchase"
+msgstr "Créditer"
+
+msgid "Purchase credits"
+msgstr "Acheter des crédits"
+
+msgid "API Token is wrong or not set."
+msgstr "L'API Token n'est pas bon."
+
+msgid "You must create an account on"
+msgstr "Vous devez créer un compte sur"
+
+msgid "and generate your API Token via the profile section"
+msgstr "et générer votre API Token via le menu profil"
+
+msgid "Save options"
+msgstr "Sauvegarder les options"
+
